@@ -12,4 +12,4 @@ Ben sorucağın soruyu en kısa zamanda yanıtlamaya çalışıcam. Soruyu yanı
 
 ## Bazı soruları oku
 
-Soru sormadan önce [kapalı issuelar](https://github.com/abdurrahmanekr/bis/issues?sort=created&direction=desc&state=closed&page=1) arasında arama yapmayı unutma. Sorucağın soruyu önceden yanıtlamış olabilirim.
+Soru sormadan önce [kapalı issuelar](https://github.com/abdurrahmanekr/bana-istedigini-sor/issues?sort=created&direction=desc&state=closed&page=1) arasında arama yapmayı unutma. Sorucağın soruyu önceden yanıtlamış olabilirim.
