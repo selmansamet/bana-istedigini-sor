@@ -1,6 +1,6 @@
 # @abdurrahmanekr'e istediğini sor!
 
-Bu ask-me-anything tipinde küçük bir repodur. Ben bu repoyu [@dnomak](https://github.com/dnomak)'dan forkladım oda [@mdo](https://github.com/mdo/ama)'dan forklamış oda [@holman](https://github.com/holman/ama)'dan forklamış. Bu repo email veya farklı platformlardan sorulan soruların ve verilen cevapların kaybolup gitmesini englleyen süper bir yöntemdir.
+Bu ask-me-anything tipinde küçük bir repodur. Ben bu repoyu [@dnomak](https://github.com/dnomak)'dan forkladım oda [@mdo](https://github.com/mdo/ama)'dan forklamış oda [@holman](https://github.com/holman/ama)'dan forklamış. Bu repo email veya farklı platformlardan sorulan soruların ve verilen cevapların kaybolup gitmesini engelleyen süper bir yöntemdir.
 
 Eğer Git veya GitHub ile ilgili herhangi bir sorun varsa bunu doğrudan [GitHub Support](https://github.com/contact) ile paylaşırsan daha hızlı yanıt alabilirsin.
 
